@@ -12,6 +12,10 @@ var hahaha = ["a", "b", "c", "d", "e", "f"];
 //     console.log(hahaha[i]);
 // }
 
-for (var i = 1; i <= 4; i++) {
+// for (var i = 1; i <= 4; i++) {
+//     console.log(hahaha[i]);
+// }
+
+for (var i = 2; i <= 3; i++) {
     console.log(hahaha[i]);
 }
